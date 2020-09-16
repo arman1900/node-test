@@ -1,0 +1,19 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "\"This is a test to learn node\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arman1900/node-test.git"
+  },
+  "author": "Arman Tarpanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arman1900/node-test/issues"
+  },
+  "homepage": "https://github.com/arman1900/node-test#readme"
+}
